@@ -1,0 +1,3 @@
+"use strict";
+let FavoriteNumber = 8;
+console.log(`My Favorite number is ${FavoriteNumber}`);
